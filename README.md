@@ -1,7 +1,7 @@
-# GREENsheild 🌿
+# GREENshield 🌿
 Plant Disease Detection Using Deep Learning
 
-GREENsheild is a computer vision project designed to detect plant diseases using deep learning models trained on the PlantVillage dataset. The system classifies various plant diseases from leaf images and provides visual explanations through Grad-CAM.
+GREENshield is a computer vision project designed to detect plant diseases using deep learning models trained on the PlantVillage dataset. The system classifies various plant diseases from leaf images and provides visual explanations through Grad-CAM.
 
 ## Features
 - Plant disease classification using:
